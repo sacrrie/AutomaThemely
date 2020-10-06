@@ -1,3 +1,5 @@
+Trying to implement this program to work with Linux Mint 20 Cinnamon.
+
 
 ![AutomaThemely icon](automathemely/lib/automathemely_large.svg)
 
